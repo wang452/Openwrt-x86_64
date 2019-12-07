@@ -1,4 +1,4 @@
-# OpenWrt-K2P
+# OpenWrt-x86_64
  采用P3TERX方案，定制加入Derry's OAF插件以及luci-theme-rosy。
 
  ## Acknowledgments
